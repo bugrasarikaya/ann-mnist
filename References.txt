@@ -1,0 +1,2 @@
+https://medium.com/analytics-vidhya/building-neural-network-framework-in-c-using-backpropagation-8ad589a0752d
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
